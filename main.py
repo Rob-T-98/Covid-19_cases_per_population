@@ -1,5 +1,4 @@
 import pandas as pd
-import operator
 
 df = pd.read_excel('https://fingertips.phe.org.uk/documents/Historic%20COVID-19%20Dashboard%20Data.xlsx', sheet_name='UTLAs')
 
